@@ -1,0 +1,1 @@
+﻿positionForPages[16]={page:16,positions:[{word:"Espacio promocional",left:0.059652,top:0.056227,width:0.290175,height:0.023567}]};
